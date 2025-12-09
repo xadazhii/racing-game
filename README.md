@@ -4,12 +4,14 @@
 
 ---
 
-### Table of Contents
-- [Visual Overview](#-visual-overview)
-- [Game Features](#-game-features)
-- [Technical Implementation](#-technical-implementation)
-- [Controls](#-controls)
-- [Getting Started](#-getting-started)
+### **Table of Contents**
+
+- [Visual Overview](#visual-overview)
+- [Key Features](#key-features)
+- [System Architecture](#system-architecture)
+- [Tech Stack](#tech-stack)
+- [Installation & Setup](#installation--setup)
+- [Future Roadmap](#future-roadmap)
 - [License](#license)
 
 ---
