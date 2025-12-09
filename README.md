@@ -85,6 +85,6 @@ The project is built using modular C# scripts. Below is an overview of the core 
 
 ---
 
-**License:** 
+### License
 
 This project is owned by **Adazhii Kristina**.
