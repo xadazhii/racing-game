@@ -1,4 +1,4 @@
-# Unity Arcade Racing: AI Challenge
+# Unity Arcade Racing
 
 **Unity Arcade Racing** is a fast-paced 3D racing game developed with **Unity** and **C#**. The player competes against 3 intelligent AI bots in a 3-lap circuit race. The game features a strategic power-up system, cinematic intro, and a complete lap tracking system.
 
