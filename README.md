@@ -77,7 +77,7 @@ The project is built using modular C# scripts. Below is an overview of the core 
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/your-username/unity-racing-game.git](https://github.com/your-username/unity-racing-game.git)
+    git clone git@github.com:xadazhii/racing-game.git
     ```
 2.  Open the project in **Unity Hub** (Version 2021.3 LTS or higher recommended).
 3.  Navigate to **Scenes** and open **MainTrack**.
